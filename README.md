@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello People
+I'm a software developer in constant evolution. I am studying Information Systems at the University of Western Santa Catarina (UNOESC), focusing on quality, agility and security.
 
-<!--
-**JonathanPasqualotto/jonathanpasqualotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<div>
+    <br>
+    <div align='center'>
+        <h3>Stack</h3>
+        <img src='https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=306998'>
+        <img src='https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61dbfb'>
+        <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white'>
+        <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+        <img src='https://img.shields.io/badge/Popos-2E3440?style=for-the-badge&logo=popos'>
+    </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
